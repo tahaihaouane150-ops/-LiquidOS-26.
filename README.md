@@ -1,1 +1,1 @@
-# -LiquidOS-26.
+# -LiquidOS-26
